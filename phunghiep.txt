@@ -1,0 +1,8 @@
+1. Tạo 1 nhóm làm việc trên trello đặt tên: Lop HoVaTen - Team. Thêm thành viên diepcd@epu.edu.vn vào team.
+2. Tạo 1 board Trello đặt tên: Lop HoVaTen - Board. Thêm nhóm làm việc tạo ở B1 vào board.
+3. Tạo 1 công việc, tự giao cho mình với các thông tin:
+- Gồm 1 check list các công việc sau:
++ Tạo mới 1 project trên github. Đặt tên: Lop HoVaTen - Project.
++ Thêm thành viên: diepcd@epu.edu.vn là thành viên.(invite)
++ Tạo file: Lop.HoVaTen.txt. Nội dung ghi: Tên lớp, Họ và Tên. Push lên github.
++ Chụp ảnh màn hình Trello và màn hình lịch sử Git đưa vào báo cáo (file doc)
