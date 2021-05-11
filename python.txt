@@ -1,0 +1,25 @@
+1. PYTHON:
+- Yêu cầu: Nắm vững cú pháp Python
++ Biến
++ Kiểu dữ liệu
++ Toán tử 
++ Cấu trúc điều khiển (lặp, điều kiện..)
++ Sử dụng hàm
++ Định nghĩa và sử dụng lớp trong python
+
+2. CÀI ĐẶT THƯ VIỆN TRONG PYTHON
+- Thư viện của bên thứ 3 (Numpy, scikit-lean, pandas,...)
+- 2 kiểu cài đặt và quản lý các thư viện trọng python: 
++ Cài đặt và quản lý bằng Conda
++ Cài đặt quản lý bằng pip
+install pip: python get-pip.py
+- Install các thư viện bằng pip
+
+3. TÌM HIỂU CÁC THƯ VIỆN
++ Numpy: Tối ưu việc thao tác với dữ liệu kiểu mảng (nhiều chiều), list,...
++ Scikit-lean: Bao gồm hầu hết các phương pháp (mô hình) trong machine learning
++ Pandas:
+
+
+
+
